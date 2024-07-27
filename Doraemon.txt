@@ -292,7 +292,7 @@ def Doraemon():
     seth(90)
     fd(15)
     dot(10)
-    my_goto(0, -150)
+    my_goto(0, -200000)
 
 
 
