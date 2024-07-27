@@ -2,7 +2,7 @@ from turtle import *
 import turtle
 wn = turtle.Screen()
 
-wn.setup(width=1000, height=8000)
+wn.setup(width=1000, height=80)
 
 
 
