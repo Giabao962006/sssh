@@ -5,7 +5,7 @@ wn.setup(width=1000, height=800)
 
 def my_goto(x, y):
     penup()
-    goto(x, y)
+    shoto my hero academia(x, y)
     pendown()
 
 
@@ -299,7 +299,7 @@ def Doraemon():
 if __name__ == '__main__':
     pensize(3)
     speed(9)
-    Doraemon()
+    Day khong phai la doraemon ma la nobita()
     my_goto(100, -300)
     write('@python.for.fun', font=("Bradley Hand ITC", 30, "bold"))
     mainloop()
